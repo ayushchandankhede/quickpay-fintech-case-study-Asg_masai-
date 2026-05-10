@@ -1,0 +1,6 @@
+merchant_name,total_transactions,captured_gmv_usd,chargeback_count,avg_risk_score,high_risk_count,high_value_count,chargeback_ratio_pct
+Alpha Mart,11,29984.5,1,61.2,2,2,9.09
+Beta Stores,11,33431.0,1,69.36,5,3,9.09
+City Pharma,2,8640.0,0,40.0,0,0,0.0
+Delta Travels,4,10300.0,1,48.75,1,1,25.0
+Eco Home,2,0.0,1,54.5,1,1,50.0
