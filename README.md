@@ -7,7 +7,7 @@ Ayush Chandnakhede
 bitsom_ftai_2601282 
 
 ## Public GitHub Repository Link
-[https://github.com/ayushchandankhede/quickpay-fintech-case-study-Asg_masai]
+https://github.com/ayushchandankhede/quickpay-fintech-case-study-Asg_masai-
 
 ---
 
